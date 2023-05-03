@@ -5,4 +5,4 @@
 # NOTA PARA EL PROFE
 Profe mi barberia es la mejor, lo motilan raperos y actores. gracias.
 
-Ejecutar código con librerias de Flutter Flow.
+link: https://app.flutterflow.io/preview/parcial-movil1-tix6ip?HomePage
